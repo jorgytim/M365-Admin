@@ -1,2 +1,2 @@
 # Powershell-Scripts
-Collection of powershell scripts
+Repository of of my public powershell scripts
